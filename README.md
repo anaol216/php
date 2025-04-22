@@ -1,42 +1,58 @@
-# Startup Landing Page
 
-Welcome to the **Startup Landing Page**! 🚀 This is a sleek and modern landing page built with **React**, **Tailwind CSS**, and **Framer Motion** for smooth animations.
+
+# PHP Class Practice Repository
+
+Welcome to the **PHP Class Practice Repository**! 🐘 This repo contains simple and practical PHP examples to help you learn and practice core concepts in PHP programming.
 
 ## 📌 Features
-- 🎨 **Responsive Design** – Fully optimized for all devices.
-- ⚡ **Fast & Lightweight** – Built with performance in mind.
-- 🎬 **Smooth Animations** – Powered by Framer Motion.
-- 🌙 **Easily Customizable** – Modify colors, fonts, and layout with Tailwind CSS.
+- 📘 **Basic to Intermediate Examples** – Covering syntax, variables, loops, arrays, functions, OOP, and more.
+- 💡 **Beginner Friendly** – Perfect for class assignments or self-study.
+- ⚙️ **CLI Ready** – Easily run and test code using the command line.
+- 🧩 **Modular Structure** – Organized by topic for easier navigation.
 
-## 🛠️ Installation & Setup
+## 🛠️ Getting Started
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/startup-landing.git
-cd startup-landing
+git clone https://github.com/anaol216/Php.git
+cd php-class-practice
 ```
 
-### 2️⃣ Install Dependencies
+### 2️⃣ Run PHP Files
+Make sure you have PHP installed and added to your system PATH. Then you can run any `.php` file like this:
+
 ```sh
-yarn install  # or npm install
+php filename.php
 ```
 
-### 3️⃣ Run the Development Server
+Example:
 ```sh
-yarn dev  # or npm run dev
+php hello-world.php
 ```
 
-The app should now be running at `http://localhost:3000/` 🎉
+## 📁 Folder Structure
+```
+php-class-practice/
+├── basics/
+│   └── variables.php
+├── loops/
+│   └── for-loop.php
+├── functions/
+│   └── simple-function.php
+├── oop/
+│   └── class-example.php
+└── ...
+```
 
-## 🚀 Deployment
-To deploy your app, use platforms like:
-- **Vercel** (`vercel deploy`)
-- **Netlify** (`netlify deploy`)
+## 🚀 Suggestions
+You can extend the repo by adding:
+- Database examples (MySQL with PDO/MySQLi)
+- File handling
+- Simple web apps using forms
 
 ## 📄 License
-This project is **open-source** and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## ✨ Contributing
-We welcome contributions! Feel free to fork the repo and submit a pull request.
-
+Have something to add? Fork the repo and submit a pull request — contributions are welcome!
 
